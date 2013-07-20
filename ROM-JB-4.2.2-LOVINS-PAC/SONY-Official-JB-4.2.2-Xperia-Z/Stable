@@ -1,0 +1,45 @@
+[ROM][JB][4.2.2]LOVINS PAC/SONY Official JB 4.2.2 Xperia Z/Stable
+just share my port rom from ray
+thread from xda http://forum.xda-developers.com/showthread.php?t=2237705
+ 
+LOVINS PAC Nightly Part 1 Smultron
+NEW UPDATE 
+ http://www.mediafire.com/folder/1n27bqf0u919a/xperia_mini_jb
+ 
+LOVINS PAC Nightly Part 1 Mango
+NEW UPDATE 
+http://www.mediafire.com/folder/rl7dae71y7yxn/xperia_mini_pro_jb
+ 
+if the camera upside down
+push system/lib set permission rw-r--r-- rename to "liboemcamera.so" 
+https://www.box.com/s/lsxo76ednnqkdofojp1n
+ 
+Latest LOVINS PAC Nightly Part 2
+NEW UPDATE
+http://www.mediafire.com/folder/tx5ts9bg7mw84/Device_ROM_PART_2
+ 
+GAPPS Special For LOVINS PAC
+NEW UPDATE
+http://www.mediafire.com/folder/f10j0ntchsdnb/GAPPS_JB_4.2.2_For_LOVINS_PAC-man_ROM
+ 
+NEW WALKMAN Xperia i1 Honami (Only SemcMusic)
+http://www.mediafire.com/folder/7abige385cwat/ADDON_Walkman_Xperia_i1_Honami
+ 
+ADDON SCRIPT
+http://d-h.st/1bS
+ 
+[Installation:]
+ - Install Kernel inside the zip via Flashtool
+- Boot into Recovery (Volume Down+Home Button)
+- Wipe Data
+- Wipe Cache
+- Wipe Dalvik Cache
+- Install Part 1
+- Install Part 2
+- And Please Install Gapps special for LOVINS PAC-man ROM
+- Reboot
+ 
+For Install New Walkman from Xperia i1 Honami
+ - After installing ROM boot your phone (don't install new Walkman together with ROM because new Walkman has problem packcage)- Reboot into recovery again- Install New Walkman Xperia i1 Honami- Reboot again
+ 
+Enjoy!!!! 
